@@ -1,0 +1,51 @@
+{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.clearfix::after {
+  content:"";
+  display:block;
+  clear:both;
+}
+
+
+
+.imag1{
+width:100%;
+height:200px;
+background-image: url(img8/box1.jpg);
+background-position:;
+background-size: ;
+
+}
+
+.imag2{
+width:100%;
+height:200px;
+background-image: url(img8/box2.jpg);
+background-position:center;
+background-size:cover ;
+
+}
+
+.imag3{
+width:100%;
+height:200px;
+background-image: url(img8/box3.jpg);
+background-position:center;
+background-size:cover ;
+}
+
+.imag4{
+width:100%;
+height:200px;
+background-image: url(img8/box4.jpg);
+background-position:center;
+background-size:cover ;
+}
